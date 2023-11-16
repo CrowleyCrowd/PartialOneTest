@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">PartialOneTest</string>
+    <string name="txt_one">Nombre Digimon</string>
+    <string name="txt_two">Nivel Digimon</string>
+
 </resources>
